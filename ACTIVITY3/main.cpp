@@ -58,6 +58,21 @@ int main() {
         peliculas[i].displayInfo();
     }
 
-
+    
+    /*
+    
+    - clases
+    - objetos
+    - modificadores de acceso
+    - constructores
+    - destructores
+    - loops
+    - condiciones
+    - funciones con retorno (bool, int, etc)
+    - funciones que imprimen
+    - leer strings, números
+    - imprimir
+    
+    */
     return 0;
 }
