@@ -1,0 +1,4 @@
+ID1,Pan Bimbo,15.5,200
+ID2,Coca,30,300
+ID3,Huevo,25.6,400
+ID4,Sandwich,12.2,500
